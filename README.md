@@ -1,24 +1,5 @@
-# README
+# Pin My Trips !
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ce projet est un projet personnel visant à permettre aux passionés de voyages de pouvoir avoir un outil online de souvenirs.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Le user pourra épingler ses voyages sur une maps, y ajouter des photos, la date du voyage, une description, tout pour garder en mémoire ses supers moments à l'autre bout du monde !
